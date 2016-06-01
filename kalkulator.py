@@ -10,6 +10,8 @@
 
 # w gałęzi odejmowanieBrach
 
+# poprawka 1
+
 def dodawanie(a:float,b:float) -> float:
     return a+b
 
