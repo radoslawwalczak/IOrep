@@ -12,6 +12,8 @@
 
 # poprawka 1
 
+# poprawka 2 - w kolejnel galezi  
+
 def dodawanie(a:float,b:float) -> float:
     return a+b
 
