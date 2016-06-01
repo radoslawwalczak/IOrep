@@ -1,2 +1,2 @@
 # IOrep
-Plik Python
+Repozytorim na potrzeby UE w Poznaniu
