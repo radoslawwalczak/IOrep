@@ -8,6 +8,10 @@
 # Copyright:   (c) radoslaw.walczak@wp.pl 2016
 #-------------------------------------------------------------------------------
 
+
+# poprawka 1
+
+
 def dodawanie(a:float,b:float) -> float:
     return a+b
 
