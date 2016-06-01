@@ -8,6 +8,8 @@
 # Copyright:   (c) radoslaw.walczak@wp.pl 2016
 #-------------------------------------------------------------------------------
 
+# w gałęzi odejmowanieBrach
+
 def dodawanie(a:float,b:float) -> float:
     return a+b
 
