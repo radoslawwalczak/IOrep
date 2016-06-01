@@ -11,4 +11,16 @@
 def dodawanie(a:float,b:float) -> float:
     return a+b
 
+
+def odejmowanie(a:float,b:loat) -> float:
+    return a-b
+
+
+def mnozenie(a:float, b:float) ->float:
+    return a*b
+
 print( dodawanie(2,2) )
+print( odejmowanie(4,2) )
+print( mnozenie(3,2) )
+
+
